@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Course Selling App**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Full Stack**
 
 - 💬 Ask me about **MERN Stack ,Full Stack Development**
 
