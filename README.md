@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/uzairahmed_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzairahmed_01" height="30" width="40" /></a>
+<a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzairahmed_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uzair-ahmed-4172b5115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzair-ahmed-4172b5115" height="30" width="40" /></a>
  <a href="https://www.instagram.com/_u.z.a.i.r_a.h.m.e.d_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_u.z.a.i.r_a.h.m.e.d_" height="30" width="40" /></a>
 <a href="https://medium.com/@uzairahmed01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@uzairahmed01" height="30" width="40" /></a>
