@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/uzairahmed_01" target="blank"><img src="https://img.shields.io/twitter/follow/uzairahmed_01?logo=twitter&style=for-the-badge" alt="uzairahmed_01" /></a> </p>
 
-- 🔭 I’m currently working on **Course Selling App**
+- 🔭 I’m currently working on **Youtube Clone**
 
 - 🌱 I’m currently learning **Full Stack**
 
